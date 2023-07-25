@@ -1,0 +1,7 @@
+__pycache__/
+.idea/
+.vscode/
+
+#debug files
+output.txt
+test.py
