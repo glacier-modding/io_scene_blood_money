@@ -1,5 +1,10 @@
 # Blood Money Blender addon
 *Extract / View assets from the Blood Money game engine.*
+
+# Usage
+1. Load Blood Money Scene Zip File (M**_main.ZIP): File -> Import -> Blood Money Scene Zip (.zip)
+2. Open viewport Blood Money menu and load single model or whole map using the filters
+3. Profit!
  
 ## Requirements
  - Blender **3.4.0** or above
